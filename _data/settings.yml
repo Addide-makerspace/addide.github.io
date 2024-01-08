@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Addidé
-  site_tagline: Mandal
+  site_tagline: 
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -9,13 +9,13 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Prosjekter'
       url: '/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'About'
+    - title: 'Om oss'
       url: '/about'
-    - title: 'Contact'
+    - title: 'Kontaktskjema'
       url: '/contact'
 
 grid_settings:
