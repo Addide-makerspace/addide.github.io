@@ -1,25 +1,14 @@
 ---
-title: 'Machines'
-subtitle: 'Our equipment'
-date: 2018-06-30 00:00:00
-description: Description of our current tools and machines
+title: 'Materials'
+subtitle: 'Available materials'
+date: 2024-01-08 00:00:00
+description: Description
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 
-# Additive manufacturing
-## FFF 3D printers
-Description of our FFF machines and their limitations.
-
-
-## SLA 3D printers
-Description of our SLA machine and its limitations.
-
-
-# Subtractive manufacturing
-## CNC machines
-Description of our CNC machine and its limitations.
+# 
 
 
 ## Image carousels
