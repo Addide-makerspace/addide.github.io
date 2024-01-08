@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Kontaktskjema
 subtitle: Subtitle
 description: Description
 featured_image: /images/demo/demo-landscape.jpg
