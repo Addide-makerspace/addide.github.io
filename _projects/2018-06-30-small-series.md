@@ -1,6 +1,6 @@
 ---
-title: 'Materialer'
-subtitle: 'Tilgjengelige materialer'
+title: 'Small series'
+subtitle: 'Subtitle'
 date: 2024-01-08 00:00:00
 description: Description
 featured_image: '/images/demo/demo-square.jpg'

@@ -9,7 +9,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Hva vi gjør'
+    - title: 'Hva gjør vi?'
       url: '/'
     - title: 'Blogg'
       url: '/blog/'
