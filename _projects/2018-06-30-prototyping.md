@@ -38,15 +38,3 @@ Vi følger et prinsipp om åpen deling i vårt nettverk. Standarden vår er å d
 
 Denne tilnærmingen bidrar til en positiv sirkulær effekt: Ved å se ekte prosjekter fra lokale bedrifter, kan andre i nettverket hente inspirasjon og ideer. Dette styrker fellesskapet og mulighetene for innovasjon innen 3D-utskrift.
 
-
-## Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
