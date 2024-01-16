@@ -29,3 +29,5 @@ Denne tilnærmingen bidrar til en positiv sirkulær effekt: Ved å se ekte prosj
 Når vi arbeider med bedrifter, følger vi som standard Creative Commons-lisensen CC BY-NC (Attribution-NonCommercial). Denne lisensen tillater andre å endre og bygge videre på vårt arbeid ikke-kommersielt, så lenge vi krediteres. 
 
 Der det er mulig, eller for andre typer prosjekter, opererer vi under CC BY-lisensen (Attribution). Denne lisensen er mer fleksibel, da den tillater andre å distribuere, endre, tilpasse og bygge videre på vårt arbeid, selv for kommersielle formål, så lenge de gir oss anerkjennelse.
+
+Les mer om Creative Commons lisenser [her](https://creativecommons.org/share-your-work/cclicenses/).
