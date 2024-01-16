@@ -3,10 +3,8 @@ title: 'Reservedeler'
 subtitle: 'Subtitle'
 date: 2024-01-08 00:00:00
 description: Description
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/projects/spare parts.png'
 ---
-
-![](/images/demo/demo-landscape.jpg)
 
 ## 
 
