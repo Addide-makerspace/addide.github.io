@@ -25,8 +25,8 @@ grid_settings:
 contact_settings:
   form_action: ''
   confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
-  send_button_text: 'Send Message'
+  email_subject: 'Addide.no kontaktskjema'
+  send_button_text: 'Send melding'
 
 social_settings:
   facebook_url: 'https://www.facebook.com/people/Addidé-Mandal/100090323092179/'
