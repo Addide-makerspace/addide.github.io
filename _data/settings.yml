@@ -11,8 +11,8 @@ menu_settings:
   menu_items:
     - title: 'Hva gjør vi?'
       url: '/'
-    - title: 'Blogg'
-      url: '/blog/'
+#    - title: 'Blogg'
+#      url: '/blog/'
     - title: 'Om oss'
       url: '/about'
     - title: 'Kontaktskjema'
