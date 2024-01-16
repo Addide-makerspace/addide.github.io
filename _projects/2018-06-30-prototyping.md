@@ -8,9 +8,6 @@ featured_image: '/images/projects/prototyping.png'
 
 ![](/images/projects/prototyping.png)
 
-## Hva er Prototyping?
-Prototyping betyr å lage en tidlig modell av et produkt for å teste og forbedre designet. Denne metoden er nyttig for alle som ønsker å utvikle en ny idé, fra oppfinnere til bedrifter.
-
 ## Vår prosess
 #### 1. Konsultasjon og behovsanalyse
 Alt begynner med en samtale for å forstå dine behov. Hvis du vurderer å skape noe nytt eller å bruke eksisterende 3D-design, diskuterer vi mulighetene.
