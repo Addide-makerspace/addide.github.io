@@ -27,10 +27,10 @@ I prototyping er det sjeldent et behov for estetisk etterbehandling, som for eks
 
 Eksempler på dette kan være varmebehandling for å styrke materialet, eller kjemisk behandling for å endre overflateteksturen. Disse prosessene er designet for å forbedre funksjonaliteten og levetiden til prototypen, ikke bare dens utseende.
 
-## Materialer:
+## Materialer
 Vi velger materialer basert på behovet til prototypen. Vårt fokus er å bruke miljøvennlige alternativer der det er mulig, som resirkulerte eller biologisk nedbrytbare polymerer.
 
-## Open Source og Nettverksamarbeid:
+## Open-source og nettverksamarbeid
 Vi følger et prinsipp om åpen deling i vårt nettverk. Standarden vår er å dele prosjekter og erfaringer med andre bedrifter, med mindre taushetserklæringer gjør det nødvendig å holde informasjonen privat.
 
 Denne tilnærmingen bidrar til en positiv sirkulær effekt: Ved å se ekte prosjekter fra lokale bedrifter, kan andre i nettverket hente inspirasjon og ideer. Dette styrker fellesskapet og mulighetene for innovasjon innen 3D-utskrift.
