@@ -6,7 +6,7 @@ description: Prototyping betyr å lage en tidlig modell av et produkt for å tes
 featured_image: '/images/projects/prototyping.png'
 ---
 
-![](/images/projects/prototyping.png)
+![Cover](/images/projects/prototyping.png)
 
 ## Vår prosess
 #### 1. Konsultasjon og behovsanalyse
