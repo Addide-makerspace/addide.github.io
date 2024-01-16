@@ -1,12 +1,10 @@
 ---
 title: 'Småserier'
 subtitle: 'Fleksibel tilgang til lagervarer'
-date: 2024-01-08 00:00:00
+date: 2024-01-09 00:00:00
 description: Fleksibel tilgang til lagervarer
 featured_image: '/images/projects/small series.png'
 ---
-
-![](/images/demo/demo-landscape.jpg)
 
 # 
 

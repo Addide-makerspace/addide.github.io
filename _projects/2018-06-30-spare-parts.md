@@ -1,7 +1,7 @@
 ---
 title: 'Reservedeler'
 subtitle: 'Subtitle'
-date: 2024-01-08 00:00:00
+date: 2024-01-11 00:00:00
 description: Description
 featured_image: '/images/projects/spare parts.png'
 ---

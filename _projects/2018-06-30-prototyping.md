@@ -1,7 +1,7 @@
 ---
 title: 'Prototyping'
 subtitle: 'Prototyping betyr å lage en tidlig modell av et produkt for å teste og forbedre designet'
-date: 2024-01-08 00:00:00
+date: 2024-01-10 00:00:00
 description: Utvikling og testing av design
 featured_image: '/images/projects/prototyping.png'
 ---
