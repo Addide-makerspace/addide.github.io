@@ -16,7 +16,9 @@ BILDE
 Forklar hvordan vi skal være samfunnsnyttige og samtidig bærekraftige
 
 ## Samarbeidspartnere
+Beskrivelse
 
+LOGO
 
 ## Delingsprinsipp
 Vi følger et prinsipp om åpen deling i vårt nettverk. Standarden vår er å dele prosjekter og erfaringer med andre bedrifter, med mindre taushetserklæringer gjør det nødvendig å holde informasjonen privat.
@@ -26,4 +28,4 @@ Denne tilnærmingen bidrar til en positiv sirkulær effekt: Ved å se ekte prosj
 ## Rettigheter
 Når vi arbeider med bedrifter, følger vi som standard Creative Commons-lisensen CC BY-NC (Attribution-NonCommercial). Denne lisensen tillater andre å endre og bygge videre på vårt arbeid ikke-kommersielt, så lenge vi krediteres. 
 
-Der det er mulig, eller for andre typer prosjekter, opererer vi under CC BY-lisensen (Attribution). Denne lisensen er mer fleksibel, da den tillater andre å distribuere, endre, tilpasse og bygge videre på vårt arbeid, selv for kommersielle formål, så lenge de gir oss anerkjennelse. Dette fremmer vår kultur for deling og åpner for bredere samarbeid og innovasjon.
+Der det er mulig, eller for andre typer prosjekter, opererer vi under CC BY-lisensen (Attribution). Denne lisensen er mer fleksibel, da den tillater andre å distribuere, endre, tilpasse og bygge videre på vårt arbeid, selv for kommersielle formål, så lenge de gir oss anerkjennelse.
