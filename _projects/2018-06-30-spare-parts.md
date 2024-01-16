@@ -1,8 +1,8 @@
 ---
 title: 'Reservedeler'
-subtitle: 'Subtitle'
+subtitle: 'Deler som er ment å erstatte defekte eller slitte deler i maskiner, kjøretøy eller annet utstyr'
 date: 2024-01-11 00:00:00
-description: Description
+description: Deler som er ment å erstatte defekte eller slitte deler i maskiner, kjøretøy eller annet utstyr
 featured_image: '/images/projects/spare parts.png'
 ---
 
