@@ -2,8 +2,8 @@
 title: Takk!
 subtitle: Meldingen din har blitt sendt.
 description: 
-featured_image: /images/demo/demo-landscape.jpg
+featured_image: /images/image.jpg
 ---
 
-![](/images/demo/about.jpg)
+![](/images/image.jpg)
 

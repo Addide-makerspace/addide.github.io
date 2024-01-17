@@ -2,7 +2,7 @@
 title: Om oss
 subtitle: 
 description: 
-featured_image: /images/demo/demo-landscape.jpg
+featured_image: /images/image.jpg
 ---
 
 Vi eies as disse
