@@ -1,8 +1,8 @@
 ---
-title: 'Reservedeler'
-subtitle: 'Deler som er ment å erstatte defekte eller slitte deler i maskiner, kjøretøy eller annet utstyr'
+title: 'Gjenskapelse'
+subtitle: 'Reproduksjon av for eksempel reservedeler fra tegninger eller fysiske eksempler'
 date: 2024-01-11 00:00:00
-description: Deler som er ment å erstatte defekte eller slitte deler i maskiner, kjøretøy eller annet utstyr
+description: Reproduksjon av for eksempel reservedeler fra tegninger eller fysiske eksempler
 featured_image: '/images/projects/spare parts.png'
 ---
 
