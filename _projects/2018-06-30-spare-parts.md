@@ -1,8 +1,8 @@
 ---
 title: 'Gjenskapelse'
-subtitle: 'Reproduksjon av for eksempel reservedeler fra tegninger eller fysiske eksempler'
+subtitle: 'Reproduksjon basert på tegninger eller fysiske eksempler'
 date: 2024-01-11 00:00:00
-description: Reproduksjon av for eksempel reservedeler fra tegninger eller fysiske eksempler
+description: Reproduksjon basert på tegninger eller fysiske eksempler
 featured_image: '/images/projects/spare parts.png'
 ---
 
