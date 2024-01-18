@@ -6,6 +6,7 @@ featured_image: /images/image.jpg
 ---
 
 **Bjørn Andreas Andersen**, verkstedsjef
+* +47 969 11 587
 * [bjanda@pm.me](mailto:bjanda@protonmail.com)
 * [polybjorn.com](https://polybjorn.com)
 
