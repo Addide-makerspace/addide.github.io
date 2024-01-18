@@ -5,5 +5,15 @@ description: Description
 featured_image: /images/image.jpg
 ---
 
+**Bjørn Andreas Andersen**, verkstedsjef
+* [bjanda@pm.me](mailto:bjanda@protonmail.com)
+* [polybjorn.com](https://polybjorn.com)
+
+---
+
+* **Glenn Sjøen**, tekniker
+
+---
+
 {% include contact-form.html %}
 
