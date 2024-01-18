@@ -13,12 +13,11 @@ Dette er våre ansatte
 BILDE
 
 ## Vår ambisjon
-Forklar hvordan vi skal være samfunnsnyttige og samtidig bærekraftige
+Vi sikter mot å kombinere våre forretningsmål med et sterkt samfunns- og miljøansvar. Gjennom våre tjenester og produkter, streber vi etter å bidra positivt til samfunnet, støtte lokale initiativer og fremme innovasjon. Vårt fokus er å gjøre teknologi tilgjengelig og relevant for både enkeltpersoner og samfunnet som helhet.
 
-## Samarbeidspartnere
-Beskrivelse
+I vår drift legger vi vekt på bærekraftige valg, ved å velge miljøvennlige materialer og prosesser så langt det er mulig og økonomisk forsvarlig. Vi streber etter å finne en balanse mellom å redusere miljøavtrykket og opprettholde høy kvalitet i det vi leverer. Dette inkluderer en kontinuerlig prosess for å forbedre ressursbruk og effektivitet.
 
-LOGO
+Vår ambisjon er å demonstrere at det er mulig å drive virksomhet på en måte som gagner både mennesker og planeten. Ved å integrere økonomisk suksess med samfunns- og miljøansvar, håper vi å være et eksempel på ansvarlig og balansert virksomhetsdrift.
 
 ## Delingsprinsipp
 Vi følger et prinsipp om åpen deling i vårt nettverk. Standarden vår er å dele prosjekter og erfaringer med andre bedrifter, med mindre taushetserklæringer gjør det nødvendig å holde informasjonen privat.
