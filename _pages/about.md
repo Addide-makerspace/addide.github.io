@@ -25,7 +25,7 @@ Vi følger et prinsipp om åpen deling i vårt nettverk. Standarden vår er å d
 Denne tilnærmingen bidrar til en positiv sirkulær effekt: Ved å se ekte prosjekter fra lokale bedrifter, kan andre i nettverket hente inspirasjon og ideer. Dette styrker fellesskapet og mulighetene for innovasjon innen 3D-design.
 
 ## Opphavsrett
-Når vi arbeider med bedrifter, følger vi som standard Creative Commons-lisensen CC BY-NC (Attribution-NonCommercial). Denne lisensen tillater andre å endre og bygge videre på vårt arbeid ikke-kommersielt, så lenge vi krediteres. 
+Når vi arbeider med aktører som har kommersielle formål, følger vi som standard Creative Commons-lisensen CC BY-NC (Attribution-NonCommercial). Denne lisensen tillater andre å endre og bygge videre på vårt arbeid ikke-kommersielt, så lenge vi krediteres. 
 
 Der det er mulig, eller for andre typer prosjekter, opererer vi under CC BY-lisensen (Attribution). Denne lisensen er mer fleksibel, da den tillater andre å distribuere, endre, tilpasse og bygge videre på vårt arbeid, selv for kommersielle formål, så lenge de gir oss anerkjennelse.
 
