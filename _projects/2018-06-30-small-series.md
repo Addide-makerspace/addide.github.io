@@ -10,19 +10,19 @@ Ved å benytte partiproduksjon fremfor å ha et stort lager av reservedeler, til
 
 Kortere leveringstider og reduserte lagringskostnader gjør denne tilnærmingen ideell for både kostnadsbesparelser og bedre ressursutnyttelse, samtidig som det gir mulighet for tilpasning og oppdatering av delene etter behov.
 
-### 1. Behovsanalyse
+#### 1. Behovsanalyse
 Vi begynner med en prat for å forstå hva du trenger. Det kan være alt fra personlige prosjekter til begrensede produktserier.
 
-### 2. Designjusteringer
+#### 2. Designjusteringer
 Vi starter med å utvikle eller finjustere et design som passer svarer på oppgaven. Her vil vi prøve å optimalisere designet for å minimere behovet for etterbehandling og redusere printetiden.
 
-### 3. Valg av materialer
+#### 3. Valg av materialer
 Funksjonalitet står ofte i sentrum, og derfor velger vi gjerne materialer som presterer godt utover grunnleggende krav. Vi tar også hensyn til miljøbevisste alternativer innenfor budsjettets rammer. Generelt utgjør materialkostnadene en relativt liten del av det totale prisbildet, noe som gir oss fleksibilitet til å prioritere kvalitet og bærekraft.
 
-### 4. Etterbehandling
+#### 4. Etterbehandling
 Vi gjør det vi kan for at hvert objekt ser bra ut og fungerer som det skal, med minimale ekstrakostnader.
 
-### Pris og levering
+#### Pris og levering
 Vi er åpne om alle kostnader fra starten, og holder deg oppdatert gjennom hele prosessen.
 
 Printetid er den største utgiften, men dette er vanskelig å beregne før vi har en modell å ta som utgangspunkt.

@@ -6,7 +6,10 @@ description: En tidlig modell eller utgave av et produkt som brukes til å teste
 featured_image: '/images/projects/prototyping.png'
 ---
 
-## Vår prosess
+Vår prototyping-tjeneste er tilrettelagt for å hjelpe deg med å gjøre dine kreative ideer til en håndgripelig virkelighet. Enten du jobber på et personlig prosjekt eller utvikler noe for din bedrift, er vi her for å veilede deg gjennom hvert trinn av prosessen.
+
+Fra den første samtalen til det ferdige produktet, er vårt mål å gjøre reisen fra skisse til prototype så enkel og forståelig som mulig.
+
 #### 1. Konsultasjon og behovsanalyse
 Alt begynner med en samtale for å forstå dine behov. Hvis du vurderer å skape noe nytt eller å bruke eksisterende 3D-design, diskuterer vi mulighetene.
         Når det er behov, snakker vi om rettigheter og lisenser, spesielt hvis du planlegger å selge de ferdige 3D-produktene.
@@ -24,9 +27,6 @@ Ved hjelp av 3D-printere skaper vi fysiske objekter fra dine digitale design. De
 I prototyping er det sjeldent et behov for estetisk etterbehandling, som for eksempel å glatte ut overflater eller male. I stedet konsentrerer vi oss om etterbehandlinger som kan endre eller forbedre materialenes egenskaper.
 
 Eksempler på dette kan være varmebehandling for å styrke materialet, eller kjemisk behandling for å endre overflateteksturen. Disse prosessene er designet for å forbedre funksjonaliteten og levetiden til prototypen, ikke bare dens utseende.
-
-## Materialer
-Vi velger materialer basert på behovet til prototypen. Vårt fokus er å bruke miljøvennlige alternativer der det er mulig, som resirkulerte eller biologisk nedbrytbare polymerer.
 
 
 <div class="gallery" data-columns="3">
