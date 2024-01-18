@@ -17,7 +17,7 @@ menu_settings:
       url: '/about'
     - title: 'Medlemmer'
       url: '/partners'
-    - title: 'Kontaktskjema'
+    - title: 'Kontakt'
       url: '/contact'
 
 grid_settings:
