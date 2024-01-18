@@ -22,7 +22,7 @@ Funksjonalitet står ofte i sentrum, og derfor velger vi gjerne materialer som p
 ### 4. Etterbehandling
 Vi gjør det vi kan for at hvert objekt ser bra ut og fungerer som det skal, med minimale ekstrakostnader.
 
-### Åpen dialog om pris og levering
+### Pris og levering
 Vi er åpne om alle kostnader fra starten, og holder deg oppdatert gjennom hele prosessen.
 
 Printetid er den største utgiften, men dette er vanskelig å beregne før vi har en modell å ta som utgangspunkt.
