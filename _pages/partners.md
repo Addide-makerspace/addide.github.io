@@ -1,7 +1,7 @@
 ---
-title: 'Samarbeidspartnere'
+title: 'Medlemmer'
 subtitle: 
-description: Samarbeidspartnere
+description: Medlemmer
 featured_image: '/images/partners/partners.png'
 ---
 
