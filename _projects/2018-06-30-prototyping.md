@@ -10,7 +10,7 @@ Vår prototyping-tjeneste er tilrettelagt for å hjelpe deg med å gjøre dine k
 
 Fra den første samtalen til det ferdige produktet, er vårt mål å gjøre reisen fra skisse til prototype så enkel og forståelig som mulig.
 
-#### 1. Konsultasjon og behovsanalyse
+#### 1. Behovsanalyse
 Alt begynner med en samtale for å forstå dine behov. Hvis du vurderer å skape noe nytt eller å bruke eksisterende 3D-design, diskuterer vi mulighetene.
         Når det er behov, snakker vi om rettigheter og lisenser, spesielt hvis du planlegger å selge de ferdige 3D-produktene.
 
@@ -20,10 +20,7 @@ Basert på prosjektet ditt, velger vi den mest passende programvaren. Noen gange
 #### 3. Materialvalg
 Vi hjelper deg med å velge det beste materialet for prosjektet ditt, vurderer egenskaper som styrke og utseende, og foreslår miljøvennlige alternativer når det er mulig.
 
-#### 4. 3D-utskrift
-Ved hjelp av 3D-printere skaper vi fysiske objekter fra dine digitale design. Denne prosessen kalles 3D-utskrift.
-
-#### 5. Etterbehandling
+#### 4. Etterbehandling
 I prototyping er det sjeldent et behov for estetisk etterbehandling, som for eksempel å glatte ut overflater eller male. I stedet konsentrerer vi oss om etterbehandlinger som kan endre eller forbedre materialenes egenskaper.
 
 Eksempler på dette kan være varmebehandling for å styrke materialet, eller kjemisk behandling for å endre overflateteksturen. Disse prosessene er designet for å forbedre funksjonaliteten og levetiden til prototypen, ikke bare dens utseende.
