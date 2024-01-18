@@ -1,7 +1,7 @@
 ---
 title: Kontaktskjema
-subtitle: Send en melding til post@addide.no om det er noe du lurer på!
-description: Description
+subtitle: 
+description: 
 featured_image: /images/image.jpg
 ---
 
@@ -14,6 +14,8 @@ featured_image: /images/image.jpg
 * **Glenn Sjøen**, tekniker
 
 ---
+
+Send en melding til post@addide.no om det er noe du lurer på!
 
 {% include contact-form.html %}
 
