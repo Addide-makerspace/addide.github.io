@@ -9,11 +9,11 @@ Addidé ble opprettet av **Lindesnesregionen Næringshage**, sammen med lokale b
 
 Vi holder til øst for Sjøsanden - **Hollendergata 3**, 4514 Mandal.
 
-
 * **Bjørn Andreas Andersen**, verkstedsjef
     * [bjanda@pm.me](mailto:bjanda@protonmail.com)
     * [polybjorn.com](https://polybjorn.com)
 
+---
 
 * **Glenn Sjøen**, tekniker
 
