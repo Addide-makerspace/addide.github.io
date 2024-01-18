@@ -2,7 +2,7 @@
 title: 'Prototyping'
 subtitle: 'En tidlig modell eller utgave av et produkt som brukes til å teste og forbedre designet'
 date: 2024-01-10 00:00:00
-description: En tidlig modell eller utgave av et produkt som brukes til å teste og forbedre designet
+description: En tidlig utgave av et produkt til å teste designet
 featured_image: '/images/projects/prototyping.png'
 ---
 
