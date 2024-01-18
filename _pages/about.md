@@ -5,7 +5,7 @@ description:
 featured_image: /images/image.jpg
 ---
 
-Addidé ble opprettet av Lindesnesregionen Næringshage, sammen med lokale bedrifter. Prosjektet har stor innflytelse fra Skap Kreativ Folkehøyskole, blant annet via opplæring, maskinpark og programvare.
+Addidé ble opprettet av **Lindesnesregionen Næringshage**, sammen med lokale bedrifter. Prosjektet har stor innflytelse fra **Skap Kreativ Folkehøyskole**, blant annet via opplæring, maskinpark og programvare.
 
 Vi holder til på østsiden av Sjøsanden, adresse: Hollendergata 3, 4514 Mandal.
 
