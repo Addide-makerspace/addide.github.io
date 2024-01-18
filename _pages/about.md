@@ -13,6 +13,8 @@ Vi holder til øst for Sjøsanden - **Hollendergata 3**, 4514 Mandal.
     * [bjanda@pm.me](mailto:bjanda@protonmail.com)
     * [polybjorn.com](https://polybjorn.com)
 
+* **Glenn Sjøen**, tekniker
+
 ## Vår ambisjon
 Vi sikter mot å kombinere våre forretningsmål med et sterkt samfunns- og miljøansvar. Vårt fokus er å gjøre teknologi tilgjengelig og relevant for både enkeltpersoner og samfunnet som helhet.
 
