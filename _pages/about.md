@@ -22,8 +22,6 @@ Vår ambisjon er å demonstrere at det er mulig å drive virksomhet på en måte
 ## Opphavsrett
 I vårt arbeid bruker vi som standard Creative Commons-lisensen CC BY (Attribution). Denne lisensen er fleksibel og tillater andre å distribuere, endre, tilpasse og bygge videre på vårt arbeid, også for kommersielle formål, så lenge de gir oss anerkjennelse.
 
-Denne tilnærmingen skaper en positiv sirkulær dynamikk: Ved å dele ekte prosjekter fra lokale bedrifter, tilrettelegger vi for at andre i nettverket kan hente inspirasjon og ideer. I beste fall kan dette føre til at de får direkte bruk for de samme komponentene.
-
 For spesifikke prosjekter, der det er nødvendig eller passende, kan vi bruke CC BY-NC-lisensen (Attribution-NonCommercial) eller en taushetserklæring. CC BY-NC-lisensen begrenser bruk til ikke-kommersielle formål, mens taushetserklæringen kan brukes for å beskytte sensitiv informasjon eller unike prosjektdetaljer.
 
 Les mer om Creative Commons lisenser [her](https://creativecommons.org/share-your-work/cclicenses/).
