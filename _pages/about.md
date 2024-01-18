@@ -5,14 +5,9 @@ description:
 featured_image: /images/image.jpg
 ---
 
-Vi eies as disse
-
-
-
 * **Bjørn Andreas Andersen**, verkstedsjef
 * [bjanda@pm.me](mailto:bjanda@protonmail.com)
 * [polybjorn.com](https://polybjorn.com)
-
 
 ## Vår ambisjon
 Vi sikter mot å kombinere våre forretningsmål med et sterkt samfunns- og miljøansvar. Vårt fokus er å gjøre teknologi tilgjengelig og relevant for både enkeltpersoner og samfunnet som helhet.
