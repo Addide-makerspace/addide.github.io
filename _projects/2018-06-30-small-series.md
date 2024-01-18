@@ -16,7 +16,7 @@ Vi begynner med en prat for å forstå hva du trenger. Det kan være alt fra per
 #### 2. Designjusteringer
 Vi starter med å utvikle eller finjustere et design som passer svarer på oppgaven. Her vil vi prøve å optimalisere designet for å minimere behovet for etterbehandling og redusere printetiden.
 
-#### 3. Valg av materialer
+#### 3. Materialer
 Funksjonalitet står ofte i sentrum, og derfor velger vi gjerne materialer som presterer godt utover grunnleggende krav. Vi tar også hensyn til miljøbevisste alternativer innenfor budsjettets rammer. Generelt utgjør materialkostnadene en relativt liten del av det totale prisbildet, noe som gir oss fleksibilitet til å prioritere kvalitet og bærekraft.
 
 #### 4. Etterbehandling

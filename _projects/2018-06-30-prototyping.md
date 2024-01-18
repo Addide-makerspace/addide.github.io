@@ -14,10 +14,10 @@ Fra den første samtalen til det ferdige produktet, er vårt mål å gjøre reis
 Alt begynner med en samtale for å forstå dine behov. Hvis du vurderer å skape noe nytt eller å bruke eksisterende 3D-design, diskuterer vi mulighetene.
         Når det er behov, snakker vi om rettigheter og lisenser, spesielt hvis du planlegger å selge de ferdige 3D-produktene.
 
-#### 2. Valg av designverktøy
+#### 2. Designverktøy
 Basert på prosjektet ditt, velger vi den mest passende programvaren. Noen ganger trenger vi avanserte verktøy for detaljerte tekniske design, andre ganger fungerer enklere programmer bedre.
 
-#### 3. Materialvalg
+#### 3. Materialer
 Vi hjelper deg med å velge det beste materialet for prosjektet ditt, vurderer egenskaper som styrke og utseende, og foreslår miljøvennlige alternativer når det er mulig.
 
 #### 4. Etterbehandling
