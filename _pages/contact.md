@@ -11,7 +11,7 @@ featured_image: /images/image.jpg
 
 ---
 
-* **Glenn Sjøen**, tekniker
+**Glenn Sjøen**, tekniker
 
 ---
 
