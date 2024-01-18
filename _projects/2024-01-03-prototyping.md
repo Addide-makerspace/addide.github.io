@@ -1,7 +1,7 @@
 ---
 title: 'Prototyping'
 subtitle: 'En tidlig utgave av et produkt til å teste designet'
-date: 2024-01-02 00:00:00
+date: 2024-01-03 00:00:00
 description: En tidlig utgave av et produkt til å teste designet
 featured_image: '/images/projects/prototyping.png'
 ---
