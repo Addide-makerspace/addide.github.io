@@ -8,7 +8,11 @@ featured_image: /images/image.jpg
 Vi eies as disse
 
 
-Dette er våre ansatte
+*Verkstedsjef*
+* Bjørn Andreas Andersen
+* bjanda@pm.me
+* [polybjorn.com](https://polybjorn.com)
+
 
 BILDE
 
