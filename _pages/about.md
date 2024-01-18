@@ -10,8 +10,8 @@ Addidé ble opprettet av **Lindesnesregionen Næringshage**, sammen med lokale b
 Vi holder til øst for Sjøsanden - **Hollendergata 3**, 4514 Mandal.
 
 * **Bjørn Andreas Andersen**, verkstedsjef
-* [bjanda@pm.me](mailto:bjanda@protonmail.com)
-* [polybjorn.com](https://polybjorn.com)
+    * [bjanda@pm.me](mailto:bjanda@protonmail.com)
+    * [polybjorn.com](https://polybjorn.com)
 
 ## Vår ambisjon
 Vi sikter mot å kombinere våre forretningsmål med et sterkt samfunns- og miljøansvar. Vårt fokus er å gjøre teknologi tilgjengelig og relevant for både enkeltpersoner og samfunnet som helhet.
