@@ -30,7 +30,7 @@ Vi velger materialer basert på behovet til prototypen. Vårt fokus er å bruke 
 
 
 <div class="gallery" data-columns="1">
-    <img src="/images/projects/prototyping/GPS adapter.png">
-    <img src="/images/projects/prototyping/Shaft grommets.png">
+    <img src="{{site.baseurl}}/images/projects/prototyping/GPS adapter.png">
+    <img src="{{site.baseurl}}/images/projects/prototyping/Shaft grommets.png">
 </div>
 
