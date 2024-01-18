@@ -28,3 +28,9 @@ Eksempler på dette kan være varmebehandling for å styrke materialet, eller kj
 ## Materialer
 Vi velger materialer basert på behovet til prototypen. Vårt fokus er å bruke miljøvennlige alternativer der det er mulig, som resirkulerte eller biologisk nedbrytbare polymerer.
 
+
+<div class="gallery" data-columns="1">
+        <img src="/images/prototyping/GPS adapter.png">
+        <img src="/images/prototyping/Shaft grommets.png">
+</div>
+
