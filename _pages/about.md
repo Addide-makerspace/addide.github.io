@@ -22,4 +22,5 @@ I vårt arbeid bruker vi som standard Creative Commons-lisensen CC BY (Attributi
 
 For spesifikke prosjekter, der det er nødvendig eller passende, kan vi bruke CC BY-NC-lisensen (Attribution-NonCommercial) eller en taushetserklæring. CC BY-NC-lisensen begrenser bruk til ikke-kommersielle formål, mens taushetserklæringen kan brukes for å beskytte sensitiv informasjon eller unike prosjektdetaljer.
 
-Les mer om Creative Commons lisenser [her](https://creativecommons.org/share-your-work/cclicenses/).
+Les mer om Creative Commons lisenser [her](https://www.creativecommons.no/post/norske-lisenser-og-verktoy).
+
