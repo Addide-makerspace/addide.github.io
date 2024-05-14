@@ -3,7 +3,7 @@ title: 'Prototyping'
 subtitle: 'En tidlig utgave av et produkt til å teste designet'
 date: 2024-01-03 00:00:00
 description: En tidlig utgave av et produkt til å teste designet
-featured_image: '/images/projects/prototyping.png'
+featured_image: 'https://res.cloudinary.com/ddqncp8so/image/upload/v1715703854/prototyping_jr6uk1.png'
 ---
 
 Vår prototyping-tjeneste er tilrettelagt for å hjelpe deg med å gjøre dine kreative ideer til en håndgripelig virkelighet. Enten du jobber på et personlig prosjekt eller utvikler noe for din bedrift, er vi her for å veilede deg gjennom hvert trinn av prosessen.
@@ -27,7 +27,7 @@ Eksempler på dette kan være varmebehandling for å styrke materialet, eller kj
 
 
 <div class="gallery" data-columns="3">
-    <img src="{{site.baseurl}}/images/projects/prototyping/GPS adapter.png">
-    <img src="{{site.baseurl}}/images/projects/prototyping/Shaft grommets.png">
+    <img src="https://res.cloudinary.com/ddqncp8so/image/upload/v1715703852/GPS_adapter_skxghn.png">
+    <img src="https://res.cloudinary.com/ddqncp8so/image/upload/v1715703854/Shaft_grommets_qef3kh.png">
 </div>
 
