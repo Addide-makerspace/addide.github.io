@@ -3,7 +3,7 @@ title: 'Småserier'
 subtitle: 'Produksjon av en begrenset mengde varer, typisk for spesialiserte eller nisjemarkeder'
 date: 2024-01-02 00:00:00
 description: Produksjon av en begrenset mengde varer, typisk for spesialiserte eller nisjemarkeder
-featured_image: '/images/projects/small series.png'
+featured_image: 'https://res.cloudinary.com/ddqncp8so/image/upload/v1715703859/small_series_n3jx5e.png'
 ---
 
 Ved å benytte partiproduksjon fremfor å ha et stort lager av reservedeler, tilbyr vi en mer effektiv og fleksibel løsning. Dette gjør det mulig å printe nødvendige deler etter behov, og sikrer rask tilgang uten behovet for omfattende lagerhold. 

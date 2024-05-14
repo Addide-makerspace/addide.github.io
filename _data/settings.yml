@@ -1,10 +1,10 @@
 basic_settings:
   site_title: Addidé
   site_tagline: 
-  favicon_image: /images/favicon.png
+  favicon_image: "https://res.cloudinary.com/ddqncp8so/image/upload/v1715703829/favicon_jhxcfc.png"
 
 header_settings:
-  logo_image: /images/logo.png
+  logo_image: "https://res.cloudinary.com/ddqncp8so/image/upload/v1715703830/logo_qwcjkp.png"
   logo_width: 120
 
 menu_settings:
