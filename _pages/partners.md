@@ -2,7 +2,7 @@
 title: 'Medlemmer'
 subtitle: 
 description: Medlemmer
-featured_image: '/images/partners/partners.png'
+featured_image: 'https://res.cloudinary.com/ddqncp8so/image/upload/v1715722352/partners_hhzfi2.png'
 ---
 
 <div class="gallery" data-columns="3">
