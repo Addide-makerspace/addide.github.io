@@ -1,57 +1,59 @@
-site: Addidé
-
+# Site settings
+title: Addidé
+email: post@addide.no
 url: https://addide.github.io
-baseurl: 
+description: "Fellesverksted for 3D printing i Mandal"
+keywords: "your keywords, separated by commas"
+skills: "3D Modellering - 3D Printing - Etterbehandling"
+meta_author: LastName FirstName
 
-collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /blog/:slug
-  projects:
-    output: true
-    permalink: /project/:slug
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
 
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Dr. Henry Jekyll
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Hollendergata 3
+  - line: 4514, Mandal
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
 defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
-
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  
-sass:
-  style: compressed
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-
-paginate: 6
-paginate_path: "/blog/page:num/"
-  
+      permalink: ""
