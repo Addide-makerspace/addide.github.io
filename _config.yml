@@ -7,7 +7,7 @@ keywords: "your keywords, separated by commas"
 skills: "3D Modellering - 3D Printing - Etterbehandling"
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
+# - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -27,11 +27,11 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url:
+    url: 'https://www.facebook.com/people/Addidé-Mandal/100090323092179/'
   - title: instagram
-    url: 
+    url: 'https://www.instagram.com/lindesnesregionen_naringshage/'
   - title: github
-    url: https://github.com/Addide-makerspace
+    url: 'https://github.com/Addide-makerspace'
 
 # Postal address (add as many lines as necessary)
 address:
