@@ -483,3 +483,7 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.custom-margin {
+  margin-top: 2rem; /* Adjust the value as needed */
+}
