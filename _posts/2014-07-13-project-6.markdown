@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: "https://res.cloudinary.com/det9ftymo/image/upload/v1724870318/IMG_3472_shgcft.png"
+img: 'https://res.cloudinary.com/det9ftymo/image/upload/v1724870318/IMG_3472_shgcft.png'
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
