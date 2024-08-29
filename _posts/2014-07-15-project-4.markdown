@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: "https://asset.cloudinary.com/det9ftymo/58245b36fd0cf3049cc90a013b9168d9"
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
