@@ -488,3 +488,14 @@ footer .footer-below {
 .custom-margin {
     margin-top: 4rem; 
 }
+
+.portfolio-text {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.portfolio-text p {
+  font-size: 14px;
+  color: #333;
+  margin: 0;
+}
