@@ -63,3 +63,6 @@ cloudinary:
 
 plugins:
   - jekyll-responsive-image
+
+whitelist:
+  - jekyll-sitemap
