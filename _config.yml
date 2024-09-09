@@ -1,10 +1,12 @@
 # Site settings
 title: Addidé
 email: post@addide.no
-url: https://addide.github.io
+url: https://addide.no
 description: "Fellesverksted for 3D printing i Mandal"
-keywords: "your keywords, separated by commas"
+taglong: ""
+tagshort: ""
 skills: "3D Modellering - 3D Printing - Etterbehandling"
+repo: https://github.com/addide-makerspace/addide.github.io
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
